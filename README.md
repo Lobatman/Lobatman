@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a biology student, with areas of focused on data analysis. I'm also passionate about progamming and have basic knowledge of Python, SQL and R langague.
+I'm a biology student at the State University of Minas Gerais (UEMG), and I'm passionate about programming. I have basic knowledge of Python, SQL and R.
 
 
 ## 🌐 Socials:
