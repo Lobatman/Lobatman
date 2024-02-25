@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a biology student at the State University of Minas Gerais (UEMG), and I'm passionate about programming. I have basic knowledge of Python, SQL and R.
+I'm a biologist venturing into the world of data analysis.
 
 
 ## 🌐 Socials:
